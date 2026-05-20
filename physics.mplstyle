@@ -1,0 +1,68 @@
+# physics.mplstyle
+
+# FIGURE
+figure.dpi: 80
+figure.titlesize: 15
+figure.figsize: 5.5, 3.5
+
+# FONT
+font.family: sans-serif
+font.sans-serif: Arial, DejaVu Sans
+font.size: 13
+
+# MATH FONT
+mathtext.fontset: custom
+mathtext.rm: Arial:regular
+mathtext.it: Arial:italic
+mathtext.bf: Arial:bold
+mathtext.default: it
+mathtext.fallback: stixsans
+
+# AXES
+axes.labelsize: 14
+axes.linewidth: 1.0
+axes.titlesize: 12
+
+# TICKS
+xtick.direction: in
+ytick.direction: in
+
+xtick.top: True
+ytick.right: True
+
+xtick.major.pad: 7.0
+ytick.major.pad: 7.0
+
+xtick.major.size: 4.0
+ytick.major.size: 4.0
+xtick.major.width: 1.0
+ytick.major.width: 1.0
+
+xtick.minor.visible: False
+ytick.minor.visible: False
+xtick.minor.size: 2.0
+ytick.minor.size: 2.0
+xtick.minor.width: 0.5
+ytick.minor.width: 0.5
+
+# LINES
+lines.linewidth: 1.5
+lines.markeredgewidth: 1.5
+lines.markersize: 6
+
+# LEGEND
+legend.edgecolor: white
+legend.columnspacing: 1.0
+legend.facecolor: white
+legend.fancybox: False
+legend.framealpha: 0.8
+legend.fontsize: 12
+legend.handlelength: 1.0
+
+# SAVEFIG
+savefig.facecolor: none
+savefig.bbox: tight
+savefig.dpi: 300
+
+# COLORMAP
+image.cmap: Blues
